@@ -25,7 +25,8 @@
 /types/accessibility/                                     @peterblazejewicz
 /types/accounting/                                        @gerich-home @chrisleck
 /types/accumulator-hash/                                  @BendingBender
-/types/accurate-interval/                                 @grayrattus
+/types/accurate-interval/                                 @chezzyk 
+
 /types/ace/                                               @Diullei @wafuwafu13
 /types/ace-diff/                                          @innovation-team
 /types/ackee-tracker/                                     @PabloSzx @elliottsj @mathe42
